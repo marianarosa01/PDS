@@ -1,0 +1,23 @@
+5.1 factory method
+5.2 builder
+5.3 builder
+6.1 adapter
+6.2 adapter / bridge diz a diana? -> tem cenas de ficheiros
+7.1 decorator
+7.2 decorator 
+7.3 composite
+8.1 proxy
+8.2 façade (e maybe proxy) 
+8.3 flyweight
+9.1 iterator
+9.2 chain of responsibility
+9.3 command
+10.1 Observer
+10.2 null object
+10.3 mediator
+11.1 strategy
+11.3 state
+11.5 visitor
+12.1 pluggins
+12.2 MVC 
+12.3 reflection

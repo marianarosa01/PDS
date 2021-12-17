@@ -1,0 +1,19 @@
+/home/mariana/Desktop/PDS/EstudoExame/98390/pds_2021_AP
+
+Alínea 1) ----------------------------------
+
+
+--- Campers disponíveis :
+
+
+Caravana reservada
+Caravana reservada
+
+--- Campers disponíveis :
+
+
+null
+
+--- Campers disponíveis :
+
+
