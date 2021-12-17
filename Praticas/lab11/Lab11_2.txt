@@ -1,0 +1,18 @@
+O Template Method tem como objetivo programar classes que partilham métodos e atributos comuns, definindo um
+esqueleto declarativo e com algumas implementações, que podem ser overriden nas descendentes.
+
+Assim, ao analisar as classes java.util.AbstractList, java.util.AbstractSet e java.util.AbstractMap, podemos concluir que é 
+evidente a ocorrência do padrão Template. Uma vez que todas derivam da classe java.util.AbstractCollection 
+(que por sua vez extende a java.lang.Objec).
+Ambas vão definir métodos comuns, respetivamente, a todas as coleções e objetos, que serão herdados pelas classes que analisámos.
+
+No entanto, tal como podemos constatar da documentação, estas classes fazem override de alguns métodos cuja definição
+original no "template" não se aplica e obrigam a este override pelo programador na criação de classes derivadas.
+Por exemplo:
+    -> Os métodos get(int) e size() na criação de uma classse derivada da AbstractList para a implementação de uma lista não modificável;
+    -> A necessidade de override dos métodos set(int, E), add(int, E) e remove(int) para a implementação de uma lista modificável a partir da classe AbstractList; 
+    -> O método entrySet() para a criação de um mapa não modificável ou do método put() para um mapa modificável, ambas as classes extendidas do AbstractMap.
+
+Podemos assim concluir que ao longo desta hierarquia ocorre a definição do esqueleto de um algoritmo nas classes base,
+que é reescrito nas classes derivadas que necessitam de uma implementação específica distinta da originalmente proposta.
+

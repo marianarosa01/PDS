@@ -1,0 +1,6 @@
+Ex. 1
+
+a) Strategy Pattern
+
+
+

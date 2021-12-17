@@ -1,0 +1,4 @@
+universidade; caderno; lapis; computador; 
+papel; caneta;
+livro;
+esquadro;borracha; 

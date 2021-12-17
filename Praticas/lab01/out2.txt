@@ -1,0 +1,21 @@
+AVEIRo         6      5,0     down
+
+PROGRAMACAo    11    0,10 downLeft
+
+CONTRACAo      9     8,11   upLeft
+
+OBJETOs        7      8,4  upRight
+
+
+...O......P.
+....A....R..
+.....C..O.S.
+......AG.O..
+......RRT...
+A....A.ET...
+V...M.J..N..
+E..A.B....O.
+I.C.O......C
+RA..........
+O...........
+............

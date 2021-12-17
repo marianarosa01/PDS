@@ -1,0 +1,5 @@
+Padrões de Construção:
+
+À primeira vista, a classe tem os seus construtores protegidos, algo importante quando queremos utilizar o Factory Method. Inclusive, a classe Calendar é uma classe do tipo 'abstract' e o método Calendar.getInstance() assim como Factory Method retorna um objeto de uma subclasse da classe Calendar (polimorfismo).
+
+A classe fornece métodos para serem implementados para um novo objeto Calendar que se queira instanciar.
