@@ -1,8 +1,0 @@
-TESTE TEÓRICO
-1-Identificar problemas do desenho
-2-Qual padrão? Vantagens/Desvantagens. Desenho.
-3- Classe Bottle, método fábrica
-4- Collections.sort, padrão e diagrama
-5- StringBuilder
-6- Java Reflection
-7- Arquitetura
